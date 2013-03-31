@@ -1,0 +1,13 @@
+<Files .htaccess>
+order allow,deny
+deny from all
+</Files>
+<Files fwa.dbSettings.*>
+order allow,deny
+deny from all
+</Files>
+
+RewriteEngine on
+RewriteBase /sites/dj-firesnake.info/
+RewriteRule play/(.*)$ index.php [L]
+

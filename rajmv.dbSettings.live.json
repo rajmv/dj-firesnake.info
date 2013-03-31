@@ -1,0 +1,10 @@
+{ 
+	"rajmvServiceLog" : {
+		"DB_SERVER_TYPE":"mysql",
+		"DB_SERVER":"rajmvservicelog.db.8082269.hostedresource.com",
+		"DB_USERNAME":"rajmvservicelog",
+		"DB_PASSWORD":"d94Nd02k1_dK3-",
+		"DB_DBNAME":"rajmvservicelog",
+		"DB_TABLENAME":"rajmvServiceLog"
+	}
+}

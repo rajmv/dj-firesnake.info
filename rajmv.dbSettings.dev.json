@@ -1,0 +1,10 @@
+{
+	"rajmvServiceLog" : {
+		"DB_SERVER_TYPE":"mysql",
+		"DB_SERVER":"localhost",
+		"DB_USERNAME":"root",
+		"DB_PASSWORD":"lkn3@$%j6402J@;",
+		"DB_DBNAME":"rajmvServiceLog",
+		"DB_TABLENAME":"rajmvServiceLog"
+	}
+}
